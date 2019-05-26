@@ -1,0 +1,29 @@
+#info h2{
+    margin: 0;
+    padding: 0;
+    font: "Helvetica", "Arial", "Lucida Grande", "sans-serif";
+    font-size: 14px;
+}
+#info h2.life{
+    font-size: 40px;
+}
+svg {
+    padding: 10px;
+}
+svg .line{
+    stroke-width : 20px;
+    stroke-linecap : square;
+    stroke : black;
+}
+svg .cheese{
+    fill: #ffea0e;
+}
+#info{
+    width: 800px;
+    height: 100px;
+    color: #ffea0e;
+}
+body {
+    overflow:hidden;
+    background-color: green;
+}
